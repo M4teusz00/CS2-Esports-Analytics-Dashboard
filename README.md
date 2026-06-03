@@ -1,4 +1,4 @@
-# HLTV-dashboard – Power BI 
+# CS2 Esports Analytics Dashboard (Power BI Dashboard)
 ## Project Overview 
 
 This project involves a data visualization dashboard (3 pages) built to analyze statistics and performance metrics from Counter-Strike 2 (CS2) esports events.
